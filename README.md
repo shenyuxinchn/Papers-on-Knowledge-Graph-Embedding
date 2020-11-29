@@ -6,3 +6,9 @@ Paper List on Knowledge Graph Embedding
 2. 知识表示学习研究进展. *刘知远，孙茂松，林衍凯，谢若冰*. 计算机研究与发展 2016. [paper](http://crad.ict.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3099)  
 3. A Review of Relational Machine Learning for Knowledge Graphs. *Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich*. Proceedings of the IEEE 2016. [paper](https://arxiv.org/pdf/1503.00759.pdf)  
 4. Knowledge Graph Embedding: A Survey of Approaches and Applications. *Quan Wang, Zhendong Mao, Bin Wang, Li Guo*. TKDE 2017. [paper](http://ieeexplore.ieee.org/abstract/document/8047276/)  
+
+## Translation-based models
+1. TransE: Translating Embeddings for Modeling Multi-relational Data. *Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, Oksana Yakhnenko*. NIPS 2013. [paper](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf)
+
+
+
